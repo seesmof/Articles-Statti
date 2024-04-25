@@ -4,7 +4,7 @@ Glory to Jesus Christ ✝️💗🙏 God bless and welcome to the repository for
 
 ## About This Project
 
-This repository is dedicated to making Christian content accessible to the Ukrainian-speaking community. The translations are sourced from a variety of Christian articles and are intended to enrich, spread and enhance godlines and Christian values among Ukrainians and any others who read them.
+This repository is dedicated to making Christian content accessible to the Ukrainian-speaking community. The translations are sourced from a variety of Christian articles and are intended to enrich, spread, and enhance godliness and Christian values among Ukrainians and any others who read them.
 
 ## Content
 
@@ -16,7 +16,7 @@ To view the translations, simply browse through the repository or visit the [Git
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. This means you are free to share and adapt the translations, provided you give appropriate credit, provide a link to the license, and indicate if changes were made. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the Creative Commons Zero v1.0 Universal License. This means you are free to share and adapt the translations without any conditions. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
