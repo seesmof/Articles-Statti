@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./logo.png" width="333">
+</div>
+
 [Інструкція українською](README_UA.md)
 
 # Ukrainian Christian Translations
