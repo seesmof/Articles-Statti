@@ -1,3 +1,5 @@
+[Інструкція українською](README_UA.md)
+
 # Ukrainian Christian Translations
 
 Glory to Jesus Christ ✝️💗🙏 God bless and welcome to the repository for Ukrainian Christian Translations. This project aims to provide a collection of Christian articles, sermons, and devotional readings translated from English to Ukrainian.
