@@ -22,6 +22,5 @@ def add_file_creation_timestamp_to_file(full_file_path: str):
     renamed_file_path = os.path.join(path_to_given_file, file_name_with_timestamp)
     os.rename(full_file_path, renamed_file_path)
 
-for file_name in os.listdir(target_folder_path):
-    file_path=os.path.join(target_folder_path,file_name)
-    add_file_creation_timestamp_to_file(file_path)
+file_path=os.path.join(target_folder_path,'Візуалізація перехресних посилань Біблії','Візуалізація перехресних посилань Біблії.md')
+add_file_creation_timestamp_to_file(file_path)
